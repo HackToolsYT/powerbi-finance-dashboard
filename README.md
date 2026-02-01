@@ -20,9 +20,11 @@ An interactive Power BI dashboard to monitor financial performance across broker
 2. Open in **Power BI Desktop**
 3. Explore the visuals and filters
 
-## Files
-- `Finance_Dashboard.pbix` – Power BI file  
-- `dashboard.png` – Screenshot
+### 🖼️ Dashboard Preview
+![Finance Dashboard](finance_dashboard.png)
 
+### 📂 Files
+- [Download Power BI File (.pbix)](https://github.com/HackToolsYT/mobile-sales-dashboard/raw/main/Mobile-Sales-Dashboard.pbix)
+  
 ## Contact
 [LinkedIn Profile](https://www.linkedin.com/in/vikas-girigoswami-122372201)
