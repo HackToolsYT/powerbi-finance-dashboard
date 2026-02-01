@@ -24,7 +24,7 @@ An interactive Power BI dashboard to monitor financial performance across broker
 ![Finance Dashboard](finance_dashboard.png)
 
 ### 📂 Files
-- [Download Power BI File (.pbix)](https://github.com/HackToolsYT/finance_dashboard/raw/main/finance_dashboard.pbix)
+- [Download Power BI File (.pbix)](https://github.com/HackToolsYT/powerbi-finance-dashboard/raw/main/finance_dashboard.pbix)
   
 ## Contact
 [LinkedIn Profile](https://www.linkedin.com/in/vikas-girigoswami-122372201)
