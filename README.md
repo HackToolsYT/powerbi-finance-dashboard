@@ -25,5 +25,4 @@ An interactive Power BI dashboard to monitor financial performance across broker
 - `dashboard.png` – Screenshot
 
 ## Contact
-Vikas Goswami – vgiri3017@gmail.com  
-LinkedIn: https://www.linkedin.com/in/vikas-girigoswami-122372201
+[LinkedIn Profile](https://www.linkedin.com/in/vikas-girigoswami-122372201)
